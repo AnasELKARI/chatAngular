@@ -1,0 +1,3 @@
+interface Destination {
+    name: string;
+}
